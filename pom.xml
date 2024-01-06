@@ -108,13 +108,13 @@
 	    <repository>
 	      <id>Nexus</id>
 	      <name>ASKES Releases Nexus Repository</name>
-	      <url>http://35.154.104.139:8081/repository/my-project-releases/</url>
+	      <url>http://13.201.33.185:8081/repository/my-project-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>Nexus</id>
 	      <name>ASKES Snapshot Nexus Repository </name>
-	      <url>http://35.154.104.139:8081/repository/my-project-snapshot/</url>
+	      <url>http://13.201.33.185:8081/repository/my-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
