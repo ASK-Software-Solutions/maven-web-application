@@ -5,12 +5,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>ASK for Engineering Solutions- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/ASKlogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to ASK for Engineering Solutions. Ph No: +91-9988776655, Bengaluru, Karnataka.</h1>
-<h1 align="center"> ASK for Engineering Solutions- A one Stop Solution for all your needs in Bangalore, India.</h1>
+<h1 align="center">Welcome to ASK for Engineering Solutions. Ph No: +91-9988776655, Hubballi, Karnataka.</h1>
+<h1 align="center"> ASK for Engineering Solutions- A One Stop Solution for all your needs in Hubballi, India.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,12 +31,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/ASKlogo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		ASK for Engineering Solutions, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
+		IT Park, Near Glass House,
+		Hubballi,
 		+91-9988667755
 		test@gmail.com
 		<br>
